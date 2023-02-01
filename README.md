@@ -32,18 +32,18 @@ There are many metrics that can determine if a MechaCar is interesting or valuab
 
 There some more important than others, regarding the performance of the vehicles. 
 
-# What metric or metrics are you going to test?
+### What metric or metrics are you going to test?
 I would test the horsepower, miles per galon, and fuel efficiency in the city. 
 
-# What is the null hypothesis or alternative hypothesis?
+### What is the null hypothesis or alternative hypothesis?
 - Null hypotesis: the mean of the MechaCar and the competition of "x metric" are statistically similar. 
 
 - Alternative hypotesis: the mean of the MechaCar and the competition of "x metric" are different.
 
-# What statistical test would you use to test the hypothesis? And why?
+### What statistical test would you use to test the hypothesis? And why?
 I would use Two-Sample t-Test because we have multiple samples, and we want to know if there is an statistical difference between the distribution means. 
 
-# What data is needed to run the statistical test?
+### What data is needed to run the statistical test?
 Dichotomous data types
 
 
