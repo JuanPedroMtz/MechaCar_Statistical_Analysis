@@ -27,3 +27,26 @@ For Lots 1 and 2 it meets the specification that we can´t have a variance great
 -T-test for Lot 2: we reject the null hypotesis, so we can dictate that there is a significant difference between the mean of this lot, and the whole population. 
 -T-test for Lot 3: we fail to reject the null hypotesis, so we can dictate that the two means are statistically the similar. 
 
+## Study Design: MechaCar vs Competition
+There are many metrics that can determine if a MechaCar is interesting or valuable for the consumer, such as, miles per galon, horsepower, cost, safety rating, and the technology & luxury. 
+
+There some more important than others, regarding the performance of the vehicles. 
+
+# What metric or metrics are you going to test?
+I would test the horsepower, miles per galon, and fuel efficiency in the city. 
+
+# What is the null hypothesis or alternative hypothesis?
+- Null hypotesis: the mean of the MechaCar and the competition of "x metric" are statistically similar. 
+
+- Alternative hypotesis: the mean of the MechaCar and the competition of "x metric" are different.
+
+# What statistical test would you use to test the hypothesis? And why?
+I would use Two-Sample t-Test because we have multiple samples, and we want to know if there is an statistical difference between the distribution means. 
+
+# What data is needed to run the statistical test?
+Dichotomous data types
+
+
+
+
+
